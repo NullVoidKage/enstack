@@ -177,14 +177,3 @@ GET /api/letter/filter/2
 ```
 
 ---
-
-## 📦 Bonus: Export to Postman
-
-If you want to import this into **Postman**, here’s how:
-
-1. Copy the JSON template below.
-2. Open Postman → Import → Raw Text → Paste this JSON.
-
-Let me know if you'd like the **Postman collection JSON file** exported directly too.
-
-Would you like the full `.postman_collection.json` file version for download or import?
